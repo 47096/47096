@@ -6,13 +6,13 @@
 
 You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from customer churn prediction models to AI-powered analytics. In fact, I've spent 10+ years in customer analytics and now build the AI tools I wish I had back then.
 
-🛠️ **Stack:** Claude Code · Hermes · Codex (AI) | Python · R · SQL (Data) | Firebase · Vercel (Infra)
+🛠️ **Stack:** Claude Code · MiMo · Codex (AI) | Python · R · SQL (Data) | Firebase · Vercel (Infra)
 
 💼 **Consulting:** Founder at datafying, helping businesses with customer analytics (churn prediction, segmentation) and turning data into decisions that elevate customer experience
 
 👨‍🏫 **Mentoring:** 10+ emerging data professionals to become strategic business partners who drive decisions with data
 
-🔨 **Currently:** AI-powered customer analytics tools and agentic workflows
+🔨 **Currently:** AI voice & music tools, plus agentic workflows for customer analytics
 
 📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
@@ -21,10 +21,13 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 ## Projects
 
 ### AI & LLM Tools
+- [hum](https://github.com/47096/hum) — AI music generator — chat with AI, upload images/documents, paste GitHub repos or YouTube links to create songs
+- [hanna](https://github.com/47096/hanna) — AI text-to-speech Chrome extension — read pages aloud with karaoke highlighting, voice design & cloning
 - [mimo-storyteller](https://github.com/47096/mimo-storyteller) — Multi-character TTS audio story app with karaoke highlighting
 - [mimo-reader](https://github.com/47096/mimo-reader) — Design custom voices, clone voices, and generate natural speech in your browser
 - [qwen3-tts-voice-clone](https://github.com/47096/qwen3-tts-voice-clone) — High-quality voice cloning powered by Qwen3-TTS — zero-shot from a single reference audio
 - [qwen3-asr](https://github.com/47096/qwen3-asr) — Audio transcription with Qwen3-ASR — automatic language detection, word-level timestamps, batch processing
+- [lux-tts](https://github.com/47096/lux-tts) — Voice cloning in Google Colab — clone any voice from a short audio sample and generate speech
 - [persona](https://github.com/47096/persona) — Synthetic persona generation and interview skill for Claude Code
 - [melbourne-property-intelligence](https://github.com/47096/melbourne-property-intelligence) — LLM-powered property market intelligence with RAG, FastAPI, and Streamlit
 
