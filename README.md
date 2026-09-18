@@ -30,6 +30,20 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 | [puff](https://github.com/47096/puff) | Quit-smoking PWA — hold + blow, streaks, Firebase sync | [live](https://47096.github.io/puff/) |
 | [noise-monitor](https://github.com/47096/noise-monitor) | PWA noise monitor — live waveform + spoken alerts | [live](https://47096.github.io/noise-monitor/) |
 
+### Customer analytics & data science
+*R · Python · SQL — churn, marketing response, VoC, model explainability*
+
+| Work | Business question |
+|------|-------------------|
+| [tidymodels](https://github.com/47096/tidymodels) | Who will churn? — Tree vs RF vs XGBoost |
+| [predict-marketing-response-with-xgboost](https://github.com/47096/predict-marketing-response-with-xgboost) | Who will respond to a campaign? |
+| [linear-regression-in-r](https://github.com/47096/linear-regression-in-r) | Where should ad spend go? |
+| [review-data-using-SVC](https://github.com/47096/review-data-using-SVC) | What are customers saying? (review NLP) |
+| [model-studio](https://github.com/47096/model-studio) | Why did the model decide that? (explainability) |
+| [persona](https://github.com/47096/persona) | Synthetic customer interviews in 15 mins |
+
+*More ML/stats notebooks (Prophet, AutoKeras, GLM, …) — [repos](https://github.com/47096?tab=repositories)*
+
 ### Teaching
 - [sql-for-everyone](https://github.com/47096/sql-for-everyone) — Interactive SQL for non-technical business people · [live](https://47096.github.io/sql-for-everyone/)
 - [ai-for-kids](https://github.com/47096/ai-for-kids) — AI course for ages 5–7 · [live](https://47096.github.io/ai-for-kids/)
@@ -37,6 +51,3 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 ### Case studies
 - [melbourne-property-intelligence](https://github.com/47096/melbourne-property-intelligence) — LLM property market intel — RAG, FastAPI, Streamlit, Docker
 - [property-auction-dataviz](https://github.com/47096/property-auction-dataviz) — Melbourne auctions mapped — scrape, clean, geocode, Leaflet
-
-### Lab
-Python & R ML/stats notebooks (churn, XGBoost, Prophet, NLP, explainability) — [all repos](https://github.com/47096?tab=repositories)
