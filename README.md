@@ -10,7 +10,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 💼 **Consulting:** Founder at datafying, helping businesses with customer analytics (churn prediction, segmentation) and turning data into decisions that elevate customer experience
 
-👨‍🏫 **Mentoring:** 10+ emerging data professionals to become strategic business partners who drive decisions with data
+👨‍🏫 **Mentoring:** 20+ emerging data professionals to become strategic business partners who drive decisions with data
 
 🔨 **Currently:** AI voice & music tools, plus agentic workflows for customer analytics
 
