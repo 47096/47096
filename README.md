@@ -14,8 +14,6 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 🔨 **Currently:** AI voice & music tools, plus agentic workflows for customer analytics
 
-📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
-
 ---
 
 ## Selected work
