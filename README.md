@@ -41,6 +41,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 | [demand-forecast](https://github.com/47096/demand-forecast) | How much demand is coming? (planning) |
 | [binary-predictions](https://github.com/47096/binary-predictions) | Yes/no risk scores (income, health) |
 | [price-predictions](https://github.com/47096/price-predictions) | What drives home prices? |
+| [text-classification](https://github.com/47096/text-classification) | Spam vs recommend — text triage |
 | [model-explainability](https://github.com/47096/model-explainability) | Why did the model decide that? (explainability) |
 | [persona](https://github.com/47096/persona) | Synthetic customer interviews in 15 mins |
 
