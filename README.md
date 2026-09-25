@@ -35,7 +35,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 |------|-------------------|
 | [customer-churn](https://github.com/47096/customer-churn) | Who will churn? — Tree vs RF vs XGBoost |
 | [campaign-response](https://github.com/47096/campaign-response) | Who will respond to a campaign? |
-| [linear-regression-in-r](https://github.com/47096/linear-regression-in-r) | Where should ad spend go? |
+| [marketing-spend](https://github.com/47096/marketing-spend) | Where should ad spend go? |
 | [customer-sentiment](https://github.com/47096/customer-sentiment) | What are customers saying? (review NLP) |
 | [model-studio](https://github.com/47096/model-studio) | Why did the model decide that? (explainability) |
 | [persona](https://github.com/47096/persona) | Synthetic customer interviews in 15 mins |
