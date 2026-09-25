@@ -47,5 +47,6 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 - [ai-for-kids](https://github.com/47096/ai-for-kids) — AI course for ages 5–7 · [live](https://47096.github.io/ai-for-kids/)
 
 ### Case studies
-- [melbourne-property-intelligence](https://github.com/47096/melbourne-property-intelligence) — LLM property market intel — RAG, FastAPI, Streamlit, Docker
+- [campaign-response](https://github.com/47096/campaign-response) — Who will accept the next offer? — targeting list from customer data
+- [customer-churn](https://github.com/47096/customer-churn) — Who will leave? — ranked save list from behaviour
 - [property-auction-dataviz](https://github.com/47096/property-auction-dataviz) — Melbourne auctions mapped — scrape, clean, geocode, Leaflet
