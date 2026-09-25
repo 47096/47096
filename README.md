@@ -33,7 +33,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 | Work | Business question |
 |------|-------------------|
-| [tidymodels](https://github.com/47096/tidymodels) | Who will churn? — Tree vs RF vs XGBoost |
+| [customer-churn](https://github.com/47096/customer-churn) | Who will churn? — Tree vs RF vs XGBoost |
 | [campaign-response](https://github.com/47096/campaign-response) | Who will respond to a campaign? |
 | [linear-regression-in-r](https://github.com/47096/linear-regression-in-r) | Where should ad spend go? |
 | [review-data-using-SVC](https://github.com/47096/review-data-using-SVC) | What are customers saying? (review NLP) |
