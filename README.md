@@ -39,6 +39,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 | [customer-sentiment](https://github.com/47096/customer-sentiment) | What are customers saying? (review NLP) |
 | [talent-attrition](https://github.com/47096/talent-attrition) | Who is about to leave? (people risk) |
 | [demand-forecast](https://github.com/47096/demand-forecast) | How much demand is coming? (planning) |
+| [binary-predictions](https://github.com/47096/binary-predictions) | Yes/no risk scores (income, health) |
 | [model-explainability](https://github.com/47096/model-explainability) | Why did the model decide that? (explainability) |
 | [persona](https://github.com/47096/persona) | Synthetic customer interviews in 15 mins |
 
