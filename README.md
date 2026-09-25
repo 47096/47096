@@ -37,6 +37,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 | [campaign-response](https://github.com/47096/campaign-response) | Who will respond to a campaign? |
 | [marketing-spend](https://github.com/47096/marketing-spend) | Where should ad spend go? |
 | [customer-sentiment](https://github.com/47096/customer-sentiment) | What are customers saying? (review NLP) |
+| [talent-attrition](https://github.com/47096/talent-attrition) | Who is about to leave? (people risk) |
 | [model-studio](https://github.com/47096/model-studio) | Why did the model decide that? (explainability) |
 | [persona](https://github.com/47096/persona) | Synthetic customer interviews in 15 mins |
 
